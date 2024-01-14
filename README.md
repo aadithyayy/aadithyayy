@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Aadithya :)
-👾 CS undergrad trying things out!<br/>
+👾 CS undergrad trying things out !<br/>
 📍 Model Engineering College, Thrikkakara.<br/>
 🎨 Design Enthusiast.<br/>
 
